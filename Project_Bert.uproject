@@ -11,15 +11,6 @@
 				"Editor"
 			]
 		},
-		{
-			"Name": "CPathfinding",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c533ad0234c540fb81bdfa7bd55d3514"
-		},
-		{
-			"Name": "Flanking_System",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/47c5e3736b334025ba623b9709ff0c0a"
-		}
+		
 	]
 }
